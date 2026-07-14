@@ -17,10 +17,10 @@ $ whoami
 ## Ключевые проекты
 | Проект | Описание | Технологический стек |
 | :--- | :---: | ---: |
-| Упаковка коробок в контейнеры | Алгоритм оптимизации трехмерной укладки грузов (коробок) на паллеты. Анализ эвристик компоновки и математическое моделирование плотности размещения. | `C++`, `Algorithms`, `Optimization`, `3D Geometry` |
-| Нативная нейронная сеть | Симуляция нейронной сети на чистом C. Локальная реализация кастомной механизма затухания информации. (With Ifortd) | C, CMake, Math |
-| Ортогональный анализ | Конвейер анализа данных с ИИ-интерпретацией. Ортогональный анализ с генерацией вывода с помощью нейросети и экспорт готовых отчетов в форматы Excel и Word. | `Python`, `scikit-learn`, `pandas`, `OpenAI` |
-| Симулятор эвристического развития | Первый забавный проект. Эвристически развиваются колонии плесени. В ходе развития происходит обмен генетикой. Самые удачно развитые организмы выживают | `Python` |
+| [Упаковка коробок в контейнеры](https://github.com/AnderFan/3d-bin-packer.git) | Алгоритм оптимизации трехмерной укладки грузов (коробок) на паллеты. Анализ эвристик компоновки и математическое моделирование плотности размещения. | `C++`, `Algorithms`, `Optimization`, `3D Geometry` |
+| [Нативная нейронная сеть](https://github.com/Ifortd/myelin.git) | Симуляция нейронной сети на чистом C. Локальная реализация кастомной механизма затухания информации. (With Ifortd) | C, CMake, Math |
+| [Ортогональный анализ](https://github.com/AnderFan/orthogonal-analysis.git) | Конвейер анализа данных с ИИ-интерпретацией. Ортогональный анализ с генерацией вывода с помощью нейросети и экспорт готовых отчетов в форматы Excel и Word. | `Python`, `scikit-learn`, `pandas`, `OpenAI` |
+| [Симулятор эвристического развития клеток](https://github.com/AnderFan/PlesenGTA.git) | Первый забавный проект. Эвристически развиваются колонии плесени. В ходе развития происходит обмен генетикой. Самые удачно развитые организмы выживают | `Python` |
 ---
 
 ## Технологический стек
@@ -72,10 +72,10 @@ $ whoami
 ## Key Projects
 | Project | Description | Tech Stack |
 | :--- | :---: | ---: |
-| Packing Boxes into Containers | 3D packing optimization algorithm for cargo (boxes) on pallets. Analysis of layout heuristics and mathematical modeling of placement density. | `C++`, `Algorithms`, `Optimization`, `3D Geometry` |
-| Native Neural Network | Neural network simulation in pure C. Local implementation of a custom information decay mechanism. (With Ifortd) | C, CMake, Math |
-| Orthogonal Analysis | Data analysis pipeline with AI interpretation. Orthogonal analysis with neural network output generation and exporting ready reports to Excel and Word formats. | `Python`, `scikit-learn`, `pandas`, `OpenAI` |
-| Heuristic Evolution Simulator | A fun first project. Mold colonies evolve heuristically. Genetic exchange occurs during evolution. The most successfully adapted organisms survive. | `Python` |
+| [Packing Boxes into Containers](https://github.com/AnderFan/3d-bin-packer.git) | 3D packing optimization algorithm for cargo (boxes) on pallets. Analysis of layout heuristics and mathematical modeling of placement density. | `C++`, `Algorithms`, `Optimization`, `3D Geometry` |
+| [Native Neural Network](https://github.com/Ifortd/myelin.git) | Neural network simulation in pure C. Local implementation of a custom information decay mechanism. (With Ifortd) | C, CMake, Math |
+| [Orthogonal Analysis](https://github.com/AnderFan/orthogonal-analysis.git) | Data analysis pipeline with AI interpretation. Orthogonal analysis with neural network output generation and exporting ready reports to Excel and Word formats. | `Python`, `scikit-learn`, `pandas`, `OpenAI` |
+| [Heuristic Evolution Simulator of cell](https://github.com/AnderFan/PlesenGTA.git) | A fun first project. Mold colonies evolve heuristically. Genetic exchange occurs during evolution. The most successfully adapted organisms survive. | `Python` |
 ---
 
 ## Tech Stack
