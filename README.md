@@ -1,4 +1,4 @@
-> 🌍 **[English version below](#-hi)**
+> 🌍 **[English version below](#english)**
 
 # Привет!
 ```txt
@@ -53,7 +53,7 @@ $ whoami
 
 <details>
 <summary><b>Click to expand the English profile</b></summary>
-
+<a name="english"></a>
 # Hi!
 ```txt
 $ whoami
