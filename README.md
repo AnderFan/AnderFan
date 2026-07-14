@@ -1,4 +1,4 @@
-> 🌍 **[English version below](#-system-engineer--data-analyst)**
+> 🌍 **[English version below](#-hi)**
 
 # Привет!
 ```txt
